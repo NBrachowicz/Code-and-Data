@@ -1,1 +1,2 @@
-# Code-and-Data
+# Code and Data
+Learning how to use a repository
